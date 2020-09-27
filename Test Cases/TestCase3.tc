@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User true, pass false</description>
+   <name>TestCase3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1d7291c-a38f-4fdc-b966-2397d41c11bf</testCaseGuid>
+</TestCaseEntity>
